@@ -1,6 +1,6 @@
 description 'ESX Bahama Mamas Job'
 
-version '2.3.1'
+version '1.3.1'
 
 client_scripts {
   '@es_extended/locale.lua',
